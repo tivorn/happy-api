@@ -1,5 +1,5 @@
 <p align="left">
-   <img src=".github/logo.png" width="200"/>
+   <img src=".github/logo.svg" width="200"/>
 </p>
 
 # Happy API
