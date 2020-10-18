@@ -8,7 +8,7 @@
 
 > [Click here to see the database model](https://app.quickdatabasediagrams.com/#/d/pDfles)
 
-> [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Hotseat%20API&uri=https%3A%2F%2Fgithub.com%2FLauraBeatris%2Fhotseat-api%2Fblob%2Fmaster%2F.github%2Fhotseat.json)
+> [![Run in Insomnia}](https://insomnia.rest/images/run.svg)](https://insomnia.rest/run/?label=Happy%20&uri=https%3A%2F%2Fgithub.com%2Ftivorn%2Fhappy-api.git)
 
 [![Author](https://img.shields.io/badge/author-Tivorn-1D71AB?style=flat-square)](https://github.com/tivorn)
 [![Languages](https://img.shields.io/github/languages/count/tivorn/happy-api?color=%231D71AB&style=flat-square)](#)
